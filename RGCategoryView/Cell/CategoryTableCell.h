@@ -10,4 +10,6 @@
 
 @interface CategoryTableCell : UITableViewCell
 
+-(void)configCellWithTitle:(NSString *)str andIndexPath:(NSIndexPath *)indexPath andSelectIndexPath:(NSIndexPath *)selectIndexPath;
+
 @end
