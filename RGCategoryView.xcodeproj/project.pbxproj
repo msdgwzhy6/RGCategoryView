@@ -58,6 +58,8 @@
 		A23181A51BE0ADF600343F76 /* RGCategoryView */ = {
 			isa = PBXGroup;
 			children = (
+				A23181BE1BE0B19300343F76 /* ScreenShot */,
+				A23181BD1BE0B18400343F76 /* Image */,
 				A23181A91BE0ADF600343F76 /* AppDelegate.h */,
 				A23181AA1BE0ADF600343F76 /* AppDelegate.m */,
 				A23181AC1BE0ADF600343F76 /* ViewController.h */,
@@ -77,6 +79,20 @@
 				A23181A71BE0ADF600343F76 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		A23181BD1BE0B18400343F76 /* Image */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Image;
+			sourceTree = "<group>";
+		};
+		A23181BE1BE0B19300343F76 /* ScreenShot */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ScreenShot;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
